@@ -25,5 +25,5 @@ Fraudulent Transactions: **492** (~0.17%)
 Download the dataset from Kaggle:
 
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
-Extract the ZIP file — you should have a file called:
+Extract the ZIP file 
 
